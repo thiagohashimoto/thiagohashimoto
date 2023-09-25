@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Thiago Hashimoto</h1>
-<h3 align="center">A future backend developer from Brazil</h3>
+<h3 align="center">A future fullstack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Python and Java**
 
